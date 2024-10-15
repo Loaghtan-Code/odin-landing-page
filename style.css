@@ -1,10 +1,8 @@
-
 /*
 div {
     border: solid;
 }
 */
-
 
 * {
     margin: 0;
@@ -130,4 +128,45 @@ body {
 .text-1 p {
     color:#808b96;
     text-align: center;
+}
+
+.quote-box {
+    padding-top: 150px;   
+}
+
+.quote-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.quote {
+    width: 800px;
+}
+
+.quote-author-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding-bottom: 150px;
+}
+
+.quote-author {
+    width: 700px;
+}
+
+.quote p {
+    color:#1F2937;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 200;
+}
+
+.quote-author p {
+    color:#1F2937;
+    text-align: end;
+    font-size: 26px;
+    font-weight: 900;
 }

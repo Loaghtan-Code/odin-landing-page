@@ -1,8 +1,8 @@
-
+/*
 div {
     border: solid;
 }
-
+*/
 
 * {
     margin: 0;
@@ -173,9 +173,16 @@ body {
 
 .action-box {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
     flex-direction: row;
-    height: 100px;
     background-color:#3882f6;
+    height: 150px;
+    width: 800px;
+    border-style: none;
+    border-radius: 16px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 
 .action-box h3 {
@@ -193,7 +200,7 @@ body {
     border-style: solid;
     border-color:#E5E7EB;
     color:#E5E7EB;
-    border-radius: 10px;
+    border-radius: 16px;
     border-width: medium;
     text-decoration: none;
     height: 30px;

@@ -6,3 +6,8 @@ Design is provided from the odin project of what the complete page should look s
 - Try to get the design as close as the the example provided but not to worry about it being pixel perfect.
 
 https://www.theodinproject.com/about
+
+images:
+www.freepik.com
+www.unsplash.com
+www.pexels.com

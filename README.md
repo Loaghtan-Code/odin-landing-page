@@ -7,6 +7,9 @@ Design is provided from the odin project of what the complete page should look s
 
 https://www.theodinproject.com/about
 
+![Capture](https://github.com/user-attachments/assets/77f43b31-983c-4d16-b49e-2b1b7228d75a)
+
+
 images:
 www.freepik.com
 www.unsplash.com
